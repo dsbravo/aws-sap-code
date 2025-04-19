@@ -42,7 +42,7 @@ File location: Code/build-a-serverless-app/part-1
 2. On the "Exports and streams" configuration tab, enable a DynamoDB stream for "New Image"
 3. Create S3 bucket in same region:
 
-Name: product-visits-datalake
+Name: product-visits-datalake-2938429a
 Modify: bucket name by adding letters/numbers at end to be unique
 Region: us-east-1
 
